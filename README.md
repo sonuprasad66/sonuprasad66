@@ -111,9 +111,9 @@
   <br/>
  
 <div>
-  <img  aling="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sonuprasad66's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sonuprasad66&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  height="250px" width="47%"/>
+  <img  aling="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sonuprasad66's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sonuprasad66&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  height="275px" width="47%"/>
  
-  <img align="right" alt="sonuprasad66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonuprasad66&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  height="255px" width="47%"/>
+  <img align="right" alt="sonuprasad66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonuprasad66&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  height="275px" width="47%"/>
  
 <div>
  <!----------------------------------------------------------------------------------------------------------------------------------------->
