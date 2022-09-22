@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 
-<div display="flex" content="right">
+<div>
 
 <div>
 
