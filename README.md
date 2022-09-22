@@ -13,6 +13,10 @@
 
 ## 🙋‍♂️ About Me
 
+<div display="flex" content="right">
+
+<div>
+
 - 🌱 Learnt **Full Stack Web Development from Masai School**
 
 - 👯 I’m looking to work as **Full Stack Web Developer**
@@ -26,6 +30,14 @@
 - 👨‍🎓 Check out my **[Resume Here](resume link)**
 
 - ⚡ Fun fact **I love Learning New Things**
+ </div>
+ 
+ <!--
+ <div>
+   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+ </div>
+ -->
+ </div>
 
 <!----------------------------------------------------- Languages and Tools --------------------------------------------------------->
 ## 🚀 Languages and Tools:
