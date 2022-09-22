@@ -97,46 +97,50 @@
 <a href="https://sonuprasad66.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
  
-
 </p>
                                                                                                                        
  <br/>   
+ 
+  <!------------------------------------------------------------My Github Stats------------------------------------------------------------------------->
                                                                                                                        
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
   <a href="https://github.com/sonuprasad66/github-readme-stats"><img alt="Sonu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonuprasad66&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>
-  
+  <br/>
+ 
+<div>
+  <img  aling="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sonuprasad66's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sonuprasad66&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+ 
+  <img align="right" alt="sonuprasad66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonuprasad66&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+ 
+<div>
+ <!----------------------------------------------------------------------------------------------------------------------------------------->
+ 
+<br/>
+<br/>
      
      
-  <div display="flex, border="1px solid red">
+ <!--- <div>
   <div>
-     <p  align="center">
+     <p   aling="left">
       <a href="https://github.com/sonuprasad66/github-readme-streak-stats">
           <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sonuprasad66's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sonuprasad66&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
       </a>
   </p>                                                                                                                                              
     </div>
 
- <div>
-   <p  align="center">                                                                                                 
+ <div >
+   <p aling="right">                                                                                                 
       <a href="https://github.com/sonuprasad66/github-readme-stats"><img alt="sonuprasad66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonuprasad66&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>   
  </div>
-</div>
-
-
-
- <!--
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
--->
+</div> --->
 
 
 
 <!--------------------------------------------------------GRAPH------------------------------------------------------------>
-<br/>
-<br/>
 
 <a href="https://github.com/sonuprasad66/github-readme-activity-graph"><img alt="sonuprasad66's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sonuprasad66&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
