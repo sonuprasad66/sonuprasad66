@@ -29,7 +29,8 @@
 
 - 🔭 Know more about me **[Portfolio](https://sonuprasad66.github.io/)**
 
-- 👨‍🎓 Check out my **[Resume Here](resume link)**
+- 👨‍🎓 Check out my **[Resume Here][sonu_prasad_resume.pdf](https://github.com/sonuprasad66/sonuprasad66/files/9792869/sonu_prasad_resume.pdf)**
+
 
 - ⚡ Fun fact **I love Learning New Things**
  </p>
