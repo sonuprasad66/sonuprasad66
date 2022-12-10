@@ -29,7 +29,7 @@
 
 - 🔭 Know more about me **[Portfolio](https://sonuprasad66.github.io/)**
 
-- 👨‍🎓 Check out my **[Resume Here][Sonu_Prasad_Resume.pdf](https://github.com/sonuprasad66/sonuprasad66/files/9951741/Sonu_Prasad_Resume.pdf)**
+- 👨‍🎓 Check out my **[Sonu_Prasad_Resume.pdf](https://github.com/sonuprasad66/sonuprasad66/files/10200534/Sonu_Prasad_Resume.pdf)**
 
 
 
