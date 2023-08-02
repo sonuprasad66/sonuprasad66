@@ -1,6 +1,5 @@
 
 
-
  ![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)
 
 
@@ -11,8 +10,8 @@
 </div>
 
 <div width="100%" display="flex">
-<h3 align="left">- I'm a Full Stack Web Developer with a specialization in MERN stack, focuses on writing clean and efficient code 👨‍🎓</h3>
-<h3 align="left">- Currently looking for a new opprtunity 🤖</h3>
+<h3 align="left">- I'm a Full Stack Web Developer with a specialization in MERN stack, focusing on writing clean and efficient code 👨‍🎓</h3>
+<h3 align="left">- Currently looking for a new opportunity. 🤖</h3>
 </div>
 <br/>
 
