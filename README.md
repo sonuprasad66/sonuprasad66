@@ -31,8 +31,8 @@
 - 📫 How to reach me **sp.srp1999@gmail.com**
 
 - 🔭 Know more about me **[Portfolio](https://sonuprasad66.github.io/)**
-
-- 👨‍🎓 Check out my Resume **[Sonu_Prasad_Resume.pdf](https://github.com/sonuprasad66/sonuprasad66/files/10800527/Sonu_Prasad_Resume.pdf)**
+<!---
+- 👨‍🎓 Check out my Resume **[Sonu_Prasad_Resume.pdf](https://github.com/sonuprasad66/sonuprasad66/files/10800527/Sonu_Prasad_Resume.pdf)** -->
 
 
 - ⚡ Fun fact **I love Learning New Things**
