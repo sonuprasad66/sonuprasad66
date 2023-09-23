@@ -2,7 +2,6 @@
 
 
 
-
  ![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)
 
 
