@@ -11,7 +11,7 @@
 </div>
 
 <div width="100%" display="flex">
-<h3 align="left">- I'm a Full Stack Web Developer with a specialization in MERN stack, focusing on writing clean and efficient code 👨‍🎓</h3>
+<h3 align="left">- I'm a Full Stack Developer with a specialization in MERN stack, focusing on writing clean and efficient code 👨‍🎓</h3>
 <h3 align="left">- Currently looking for a new opportunity. 🤖</h3>
 </div>
 <br/>
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **sp.srp1999@gmail.com**
 
-- 🔭 Know more about me **[Portfolio](https://sonuprasad66.github.io/)**
+- 🔭 Know more about me **[Portfolio](https://portfolio.sonuprasad.in/)**
 <!---
 - 👨‍🎓 Check out my Resume **[Sonu_Prasad_Resume.pdf](https://github.com/sonuprasad66/sonuprasad66/files/10800527/Sonu_Prasad_Resume.pdf)** -->
 
@@ -51,33 +51,42 @@
 ## 🚀 Languages and Tools:
 <div >
  <div ><h2>Frontend</h2>
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
- <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" align="center" alt="styled-components" />
- <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
- <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
- <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" align="center" alt="react"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" align="center" alt="angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="typescript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="center" alt="javascript"/>
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakraui"/>
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" align="center" alt="material-ui"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="bootstrap"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" align="center" alt="styled-components"/>
+  <img src="https://img.shields.io/badge/REST%20API-00A8E1?style=for-the-badge&logo=api&logoColor=white" align="center" alt="rest-api"/>
 </div>
 
   <div ><h2>Backend</h2> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" align="center" alt="nodejs"/>
+   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="mysql"/>
+   <img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=hashnode&logoColor=white" align="center" alt="dsa"/>
  </div>
   <div ><h2>Tools</h2> 
-    <img src="https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white" align="center" alt="render" />
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" align="center" alt="docker"/>
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" align="center" alt="linux"/>
+   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" align="center" alt="windows"/>
+   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" align="center" alt="vscode"/>
+   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" align="center" alt="webstorm"/>
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman"/>
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github"/>
+   <img src="https://img.shields.io/badge/Render-3E3E3E?style=for-the-badge&logo=render&logoColor=white" align="center" alt="render"/>
+   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="vercel"/>
+   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" align="center" alt="netlify"/>
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm"/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+   
  </div>
 </div>
 
@@ -96,10 +105,24 @@
 <div><h2> 🌐 Socials</h2> <div/>
 <br/>
 <p align="left">
-<a href = "https://www.linkedin.com/in/sonuprasad66/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "mailto:sp.srp1999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://sonuprasad66.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
+  <a href="https://www.linkedin.com/in/sonuprasad66/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="linkedin"/>
+  </a>
+  <a href="https://x.com/sonuprasad_66/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="twitter"/>
+  </a>
+  <a href="https://linktr.ee/sonuprasad66/" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-00C4CC?style=for-the-badge&logo=linktree&logoColor=white" align="center" alt="linktree"/>
+  </a>
+  <a href="https://portfolio.sonuprasad.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" align="center" alt="portfolio"/>
+  </a>
+  <a href="mailto:sp.srp1999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="gmail"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-96060C?style=for-the-badge&logo=file-pdf&logoColor=white" align="center" alt="resume"/>
+  </a>
  
 </p>
                                                                                                                        
