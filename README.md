@@ -9,8 +9,8 @@
 </div>
 
 <div width="100%" display="flex">
-<h3 align="left">- I'm a Full Stack Developer with a specialization in MERN stack, focusing on writing clean and efficient code 👨‍🎓</h3>
-<h3 align="left">- Currently looking for a new opportunity. 🤖</h3>
+<h3 align="left">- Hi there, I'm Sonu Prasad. I'm a skilled Full-Stack developer with hands-on experience in web development, specializing in building and optimizing scalable and high-performance applications. 👨‍🎓</h3>
+<h3 align="left">- While I have expertise in full-stack development, my primary focus is on backend development, designing, implementing, and optimizing server-side functionalities to enhance efficiency and performance. That said, I'm also proficient in front-end development, crafting user-friendly interfaces, implementing business logic, and integrating APIs to deliver seamless end-to-end product solutions. 🤖</h3>
 </div>
 <br/>
 
@@ -21,20 +21,19 @@
 
 <p aling="left" width="48%" height="300">
 
-- 🌱 Learnt **Full Stack Web Development from Masai School**
+- 🌱 **Completed Full-Stack Web Development** training at Masai School.
 
-- 👯 I’m looking to work as **Full Stack Web Developer**
+- 👯 **Seeking opportunities** as a Full-Stack Web Developer.
 
-- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/sonuprasad66?tab=repositories)**
+- 👨‍💻 **Check out my projects on** **[My Github Repositories](https://github.com/sonuprasad66?tab=repositories)**
 
-- 📫 How to reach me **sp.srp1999@gmail.com**
+- 📫 **Reach me at** **[Connect](https://linktr.ee/sonuprasad66)**
 
-- 🔭 Know more about me **[Portfolio](https://portfolio.sonuprasad.in/)**
+- 🔭 **Learn more about my work on my** **[Portfolio](https://portfolio.sonuprasad.in/)**
 <!---
-- 👨‍🎓 Check out my Resume **[Sonu_Prasad_Resume.pdf](https://github.com/sonuprasad66/sonuprasad66/files/10800527/Sonu_Prasad_Resume.pdf)** -->
+- 👨‍🎓 Check out my Resume **[Sonu_Prasad_Resume.pdf](https://drive.google.com/file/d/1JVraNkgjNhgjUlPk1J-PTYnO0_1F0AhL/view?usp=sharing)** -->
 
-
-- ⚡ Fun fact **I love Learning New Things**
+-  ⚡**Fun fact:** I love learning new technologies and improving every day!
 
  </p>
  
