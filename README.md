@@ -4,24 +4,32 @@
 
  ![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm SONU PRASAD <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"/></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm SONU PRASAD</h1>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;+Full+Stack+Developer;MERN+Stack+Developer;MEAN+Stack+Developer;Quick+Learner&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;+Full+Stack+Developer;Backend+Developer;MERN+Stack+Developer;MEAN+Stack+Developer&color=cyan&center=true" />
 </div>
 
 <div width="100%" display="flex">
-<h3 align="left">- Hi there, I'm Sonu Prasad. I'm a skilled Full-Stack developer with hands-on experience in web development, specializing in building and optimizing scalable and high-performance applications. 👨‍🎓</h3>
-<h3 align="left">- While I have expertise in full-stack development, my primary focus is on backend development, designing, implementing, and optimizing server-side functionalities to enhance efficiency and performance. That said, I'm also proficient in front-end development, crafting user-friendly interfaces, implementing business logic, and integrating APIs to deliver seamless end-to-end product solutions. 🤖</h3>
-</div>
+<h3 align="left">- Software Engineer with 4+ years of experience building scalable and high-performance web applications using
+React.js, Angular, Next.js, Node.js, Express.js, JavaScript, TypeScript, Redis, Elasticsearch, and AWS. Experienced
+in backend engineering, API development, performance optimization, and scalable product architecture for
+large-scale applications handling millions of records. 👨‍🎓</h3>
+
+**Currently focused on:**
+- Scalable backend systems
+- Performance optimization
+- Search & caching architectures
+- AI-enabled product development
+- Modern SaaS applications
+ 
 <br/>
 
 
-## 🙋‍♂️ About Me
 
 <div>
 
-<p aling="left" width="48%" height="300">
+<!-- <p aling="left" width="48%" height="300">
 
 - 🌱 **Completed Full-Stack Web Development** training at Masai School.
 
@@ -32,12 +40,12 @@
 - 📫 **Reach me at** **[Connect](https://linktr.ee/sonuprasad66)**
 
 - 🔭 **Learn more about my work on my** **[Portfolio](https://portfolio.sonuprasad.in/)**
-<!---
-- 👨‍🎓 Check out my Resume **[Sonu_Prasad_Resume.pdf](https://drive.google.com/file/d/1JVraNkgjNhgjUlPk1J-PTYnO0_1F0AhL/view?usp=sharing)** -->
+  
+- 👨‍🎓 Check out my Resume **[Sonu_Prasad_Resume.pdf](https://drive.google.com/file/d/1JVraNkgjNhgjUlPk1J-PTYnO0_1F0AhL/view?usp=sharing)**
 
 -  ⚡**Fun fact:** I love learning new technologies and improving every day!
 
- </p>
+ </p> -->
  
  
 
@@ -114,7 +122,7 @@
   <a href="https://linktr.ee/sonuprasad66/" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-00C4CC?style=for-the-badge&logo=linktree&logoColor=white" align="center" alt="linktree"/>
   </a>
-  <a href="https://portfolio.sonuprasad.in/" target="_blank">
+  <a href="https://.sonuprasad.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" align="center" alt="portfolio"/>
   </a>
   <a href="mailto:sp.srp1999@gmail.com" target="_blank">
