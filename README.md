@@ -1,8 +1,5 @@
 
 
-
-
-
  ![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm SONU PRASAD</h1>
